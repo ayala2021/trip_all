@@ -1,0 +1,33 @@
+.root{
+    margin-left: 30%;
+    width: 30%;
+    text-align: right;
+    font-family: 'Gisha';
+}
+
+.btn{
+    width: 100%;
+    text-align: center
+}
+
+.image{
+    background-image: url('./images/bridge.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 200px;
+}
+
+.header{
+    font-family: 'Gisha';
+}
+
+.end{
+    position: fixed;
+    bottom: 0;
+  
+}
+
+.head{
+    position: fixed;
+    top: 0;
+}
